@@ -1,0 +1,24 @@
+- title: A Study on Machine Learning Algorithms
+  authors:
+  - John Smith
+  - Jane Doe
+  journal: Journal of Artificial Intelligence
+  doi: 10.1016/j.jai.2020.01.001
+  date: '2020'
+- title: Introduction to Astrophysics
+  authors:
+  - Michael Jones
+  date: '2018'
+- title: Advancements in Quantum Computing
+  authors:
+  - Li Wang
+  - David Brown
+  date: '2019'
+- title: Analysis of Renewable Energy Sources
+  authors:
+  - Emily Miller
+  date: '2021'
+- title: Modeling and Simulation of Urban Traffic Systems
+  authors:
+  - Minho Lee
+  date: '2017'
