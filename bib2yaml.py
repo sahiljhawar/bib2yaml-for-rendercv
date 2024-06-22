@@ -7,7 +7,7 @@ output_file = "pubs.yml"
 
 lt = LatexNodes2Text()
 
-months_dict_to_num = {
+months_to_num_dict = {
     "jan": 1, "january": 1,
     "feb": 2, "february": 2,
     "mar": 3, "march": 3,
@@ -55,7 +55,7 @@ for entry in db.entries:
     if year:
         full_date = str(year)
         if month:
-            full_date = f"{year}-{months_dict_to_num[month]:02d}"
+            full_date = f"{year}-{months_to_num_dict[month]:02d}"
 
     filtered_entry["date"] = full_date
 
